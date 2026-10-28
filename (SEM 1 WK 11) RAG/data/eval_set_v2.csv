@@ -1,0 +1,41 @@
+query,relevant,category
+I want to study how computers process human language,CS4248|DSA4213|CP4284,paraphrase
+how do apps like Google Lens recognise what's in a photo,CS4243|EE4212|CS4277|EE4704,paraphrase
+teach an AI agent to learn by trial and error and rewards,CS4246|MA4275,paraphrase
+how to store and query data for a website backend using SQL,CS2102|IT2002|TCX2003|TIC2601,paraphrase
+what happens inside my laptop when I run several programs at once,CS2106|CG2271,paraphrase
+how does code I write get translated into machine instructions,CS4212,paraphrase
+how do I keep messages secret so only the receiver can read them,CS4230|CS4236,paraphrase
+I want to build my own video game,CS3247|CS4350|NM4260,paraphrase
+working in a team to build a large software product properly,CS2103|CS2103T|CS2103DE|CS2103R|CS2113|TCX3221,paraphrase
+how cryptocurrency and Bitcoin actually work,IS4302|FIN4724,paraphrase
+editing DNA with CRISPR,LSM4219,keyword
+machine learning,CS3244|CS2109S|CS2109HS|CG3201|BT4240|CS3264,keyword
+natural language processing NLP,CS4248|DSA4213|CP4284,keyword
+computer vision image recognition,CS4243|EE4212|CS4277|EE4704,keyword
+reinforcement learning reward-based agents,CS4246|MA4275,keyword
+SQL relational databases,CS2102|IT2002|TCX2003|TIC2601,keyword
+operating systems concurrency,CS2106|CG2271,keyword
+compiler code generation machine instructions,CS4212,keyword
+cryptography encryption,CS4230|CS4236,keyword
+quantum computing qubits,CS4268|NST2030|PC2451|PC3221,keyword
+I want to learn a language to watch K-dramas without subtitles,LAK1201,vague
+something about horror movies,EN3248,vague
+I like reading poems,EN2210|EN4269,vague
+I want to start my own company,BSN3703|IS3251|ETP3121|DSA4510|TR4049N|TR4049T,vague
+I want to learn more about space,PC3246|PC4249|PC2411,vague
+something related to the human mind,PL4244|PH3241,vague
+I am interested in money and people,EC4394|LL4308V,vague
+I want to make something interactive,CS3247|CS4350|NM4260,vague
+I want to understand technology better,CS2106|CG2271,vague
+I want to explore the world of business,BSN3703|IS3251|ETP3121|DSA4510|TR4049N|TR4049T,vague
+I just finished CS2040S what should I take next,CS3230|CS3230R,prerequisite
+"After learning the basics of machine learning, which modules could I consider next?",CS3244|CS2109S|CS2109HS|CG3201|BT4240|CS3264,prerequisite
+"I completed introductory programming; what algorithms module could I take next?",CS3230|CS3230R,prerequisite
+"After studying basic statistics, what modules could help me go further?",ST2334|ST2131|MA2116|ST1131,prerequisite
+"I know the basics of databases; what related module should I consider next?",CS2102|IT2002|TCX2003|TIC2601,prerequisite
+"After learning introductory computer science, what can I study about operating systems?",CS2106|CG2271,prerequisite
+"I have learned basic programming and want to study software engineering next",CS2103|CS2103T|CS2103DE|CS2103R|CS2113|TCX3221,prerequisite
+"After an introduction to AI, what modules can I take to study machine learning?",CS3244|CS2109S|CS2109HS|CG3201|BT4240|CS3264,prerequisite
+"I have studied basic physics; what can I take to learn about quantum computing?",CS4268|NST2030|PC2451|PC3221,prerequisite
+"After learning about networks, what related computing modules could I take?",CS2105|EE4204,prerequisite
